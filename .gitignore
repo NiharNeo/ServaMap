@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+.npm/
+
+# Backend
+__pycache__/
+*.pyc
+.env
+_vendor/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+dist/
+build/
+.venv/
+env/
+venv/
+/tmp/
+test_*.py
+test_*.mp3
